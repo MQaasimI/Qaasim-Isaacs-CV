@@ -1,6 +1,6 @@
 # Qaasim Isaacs
 
-![Profile Picture](cvphoto.jpg)
+![Profile Picture](profile.jpg)
 
 🎯 Application Development Student | Seeking WIL Opportunity
 
