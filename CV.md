@@ -1,6 +1,6 @@
 # Qaasim Isaacs
 
-![Profile Picture](profile.jpeg)
+<img src="profile.jpeg" alt="Qaasim Isaacs" width="120" height="120">
 
 🎯 Application Development Student | Seeking WIL Opportunity
 
